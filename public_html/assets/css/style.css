@@ -1,0 +1,29 @@
+.active {
+  font-weight: bold;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: black;
+}
+nav ul {
+  margin: 10px;
+  list-style-type: none;
+  padding: 10px;
+}
+nav ul li {
+  display: inline;
+  padding: 20px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+#logo {
+  font-family: "Titillium Web Black", sans-serif;
+  font-weight: bold;
+  color: purple;
+  font-size: 3em;
+}/*# sourceMappingURL=style.css.map */
